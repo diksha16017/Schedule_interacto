@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">iiit-interacto-test</string>
+    <string name="action_settings">Settings</string>
+    <string name="schedule_button">Schedule</string>
+    <string name="project_name">Emotion Mining</string>
+    <string name="member">Member1</string>
+    <string name="members">Members</string>
+    <string name="ip">IP/IS</string>
+
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="attendees">Attendees</string>
+    <string name="choose_slots">Choose Slots</string>
+    <string name="ten">1000</string>
+    <string name="eleven">1100</string>
+    <string name="twelve">1200</string>
+    <string name="thirteen">1300</string>
+    <string name="fourteen">1400</string>
+    <string name="fifteen">1500</string>
+    <string name="sixteen">1600</string>
+    <string name="selected_slot_text">Selected Slot</string>
+    <string name="back_button">Back</string>
+    <string name="done_button">Done</string>
+</resources>

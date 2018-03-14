@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#00A1C0</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="project_title">#5A7D8A</color>
+    <color name="schedule_btn_pink">#FF9A9E</color>
+    <color name="schedule_btn_highlight_pink">#ff767b</color>
+    <color name="cards_bg">#e6e4e4</color>
+    <color name="white">#ffffff</color>
+    <color name="tagGrey">#5A7D8A</color>
+    <color name="black">#100e0e</color>
+    <color name="slot_blocked">#FF5369</color>
+    <color name="slot_available">#57DF78</color>
+    <color name="slot_available_tick">#FFFFFF</color>
+</resources>
