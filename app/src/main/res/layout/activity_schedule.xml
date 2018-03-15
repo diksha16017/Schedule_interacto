@@ -94,6 +94,7 @@
                     android:buttonTint="@color/slot_blocked"
                     android:layout_marginEnd="2dp"
                     android:layout_marginRight="2dp"
+                    android:onClick="checkboxClicked"
                     android:background="@color/slot_blocked"
                     />
                 <CheckBox
@@ -106,6 +107,7 @@
                     android:buttonTint="@color/slot_blocked"
                     android:layout_marginEnd="2dp"
                     android:layout_marginRight="2dp"
+                    android:onClick="checkboxClicked"
                     android:background="@color/slot_blocked"/>
                 <CheckBox
                     android:id="@+id/slot_3"
@@ -117,6 +119,7 @@
                     android:buttonTint="@color/slot_blocked"
                     android:layout_marginEnd="2dp"
                     android:layout_marginRight="2dp"
+                    android:onClick="checkboxClicked"
                     android:background="@color/slot_blocked"
                     />
                 <CheckBox
@@ -129,6 +132,7 @@
                     android:buttonTint="@color/slot_blocked"
                     android:layout_marginEnd="2dp"
                     android:layout_marginRight="2dp"
+                    android:onClick="checkboxClicked"
                     android:background="@color/slot_blocked"/>
                 <CheckBox
                     android:id="@+id/slot_5"
@@ -140,6 +144,7 @@
                     android:buttonTint="@color/slot_blocked"
                     android:layout_marginEnd="2dp"
                     android:layout_marginRight="2dp"
+                    android:onClick="checkboxClicked"
                     android:background="@color/slot_blocked"/>
                 <CheckBox
                     android:id="@+id/slot_6"
@@ -151,6 +156,7 @@
                     android:buttonTint="@color/slot_blocked"
                     android:layout_marginEnd="2dp"
                     android:layout_marginRight="2dp"
+                    android:onClick="checkboxClicked"
                     android:background="@color/slot_blocked"/>
             </LinearLayout>
             <LinearLayout
@@ -173,6 +179,7 @@
                     android:buttonTint="@color/slot_blocked"
                     android:layout_marginEnd="2dp"
                     android:layout_marginRight="2dp"
+                    android:onClick="checkboxClicked"
                     android:background="@color/slot_blocked"
                     />
                 <CheckBox
@@ -185,6 +192,7 @@
                     android:buttonTint="@color/slot_blocked"
                     android:layout_marginEnd="2dp"
                     android:layout_marginRight="2dp"
+                    android:onClick="checkboxClicked"
                     android:background="@color/slot_blocked"/>
                 <CheckBox
                     android:id="@+id/slot_9"
@@ -196,6 +204,7 @@
                     android:buttonTint="@color/slot_blocked"
                     android:layout_marginEnd="2dp"
                     android:layout_marginRight="2dp"
+                    android:onClick="checkboxClicked"
                     android:background="@color/slot_blocked"/>
                 <CheckBox
                     android:id="@+id/slot_10"
@@ -207,6 +216,8 @@
                     android:buttonTint="@color/slot_blocked"
                     android:layout_marginEnd="2dp"
                     android:layout_marginRight="2dp"
+                    android:onClick="checkboxClicked"
+
                     android:background="@color/slot_blocked"/>
                 <CheckBox
                     android:id="@+id/slot_11"
@@ -218,6 +229,7 @@
                     android:buttonTint="@color/slot_blocked"
                     android:layout_marginEnd="2dp"
                     android:layout_marginRight="2dp"
+                    android:onClick="checkboxClicked"
                     android:background="@color/slot_blocked"/>
                 <CheckBox
                     android:id="@+id/slot_12"
@@ -229,6 +241,7 @@
                     android:buttonTint="@color/slot_blocked"
                     android:layout_marginEnd="2dp"
                     android:layout_marginRight="2dp"
+                    android:onClick="checkboxClicked"
                     android:background="@color/slot_blocked"/>
             </LinearLayout>
 
@@ -252,6 +265,7 @@
                     android:buttonTint="@color/slot_blocked"
                     android:layout_marginEnd="2dp"
                     android:layout_marginRight="2dp"
+                    android:onClick="checkboxClicked"
                     android:background="@color/slot_blocked"
                     />
                 <CheckBox
@@ -264,6 +278,7 @@
                     android:buttonTint="@color/slot_blocked"
                     android:layout_marginEnd="2dp"
                     android:layout_marginRight="2dp"
+                    android:onClick="checkboxClicked"
                     android:background="@color/slot_blocked"/>
                 <CheckBox
                     android:id="@+id/slot_15"
@@ -275,6 +290,7 @@
                     android:buttonTint="@color/slot_blocked"
                     android:layout_marginEnd="2dp"
                     android:layout_marginRight="2dp"
+                    android:onClick="checkboxClicked"
                     android:background="@color/slot_blocked"/>
                 <CheckBox
                     android:id="@+id/slot_16"
@@ -286,6 +302,7 @@
                     android:buttonTint="@color/slot_blocked"
                     android:layout_marginEnd="2dp"
                     android:layout_marginRight="2dp"
+                    android:onClick="checkboxClicked"
                     android:background="@color/slot_blocked"/>
                 <CheckBox
                     android:id="@+id/slot_17"
@@ -297,6 +314,7 @@
                     android:buttonTint="@color/slot_blocked"
                     android:layout_marginEnd="2dp"
                     android:layout_marginRight="2dp"
+                    android:onClick="checkboxClicked"
                     android:background="@color/slot_blocked"/>
                 <CheckBox
                     android:id="@+id/slot_18"
@@ -308,6 +326,7 @@
                     android:buttonTint="@color/slot_blocked"
                     android:layout_marginEnd="2dp"
                     android:layout_marginRight="2dp"
+                    android:onClick="checkboxClicked"
                     android:background="@color/slot_blocked"/>
             </LinearLayout>
 
@@ -331,6 +350,7 @@
                     android:buttonTint="@color/slot_blocked"
                     android:layout_marginEnd="2dp"
                     android:layout_marginRight="2dp"
+                    android:onClick="checkboxClicked"
                     android:background="@color/slot_blocked"
                     />
                 <CheckBox
@@ -343,6 +363,7 @@
                     android:buttonTint="@color/slot_blocked"
                     android:layout_marginEnd="2dp"
                     android:layout_marginRight="2dp"
+                    android:onClick="checkboxClicked"
                     android:background="@color/slot_blocked"/>
                 <CheckBox
                     android:id="@+id/slot_21"
@@ -354,6 +375,7 @@
                     android:buttonTint="@color/slot_blocked"
                     android:layout_marginEnd="2dp"
                     android:layout_marginRight="2dp"
+                    android:onClick="checkboxClicked"
                     android:background="@color/slot_blocked"/>
                 <CheckBox
                     android:id="@+id/slot_22"
@@ -365,6 +387,7 @@
                     android:buttonTint="@color/slot_blocked"
                     android:layout_marginEnd="2dp"
                     android:layout_marginRight="2dp"
+                    android:onClick="checkboxClicked"
                     android:background="@color/slot_blocked"/>
                 <CheckBox
                     android:id="@+id/slot_23"
@@ -376,6 +399,7 @@
                     android:buttonTint="@color/slot_blocked"
                     android:layout_marginEnd="2dp"
                     android:layout_marginRight="2dp"
+                    android:onClick="checkboxClicked"
                     android:background="@color/slot_blocked"/>
                 <CheckBox
                     android:id="@+id/slot_24"
@@ -387,6 +411,7 @@
                     android:buttonTint="@color/slot_blocked"
                     android:layout_marginEnd="2dp"
                     android:layout_marginRight="2dp"
+                    android:onClick="checkboxClicked"
                     android:background="@color/slot_blocked"/>
             </LinearLayout>
 
@@ -410,6 +435,7 @@
                     android:buttonTint="@color/slot_blocked"
                     android:layout_marginEnd="2dp"
                     android:layout_marginRight="2dp"
+                    android:onClick="checkboxClicked"
                     android:background="@color/slot_blocked"
                     />
                 <CheckBox
@@ -422,6 +448,7 @@
                     android:buttonTint="@color/slot_blocked"
                     android:layout_marginEnd="2dp"
                     android:layout_marginRight="2dp"
+                    android:onClick="checkboxClicked"
                     android:background="@color/slot_blocked"/>
                 <CheckBox
                     android:id="@+id/slot_27"
@@ -433,6 +460,7 @@
                     android:buttonTint="@color/slot_blocked"
                     android:layout_marginEnd="2dp"
                     android:layout_marginRight="2dp"
+                    android:onClick="checkboxClicked"
                     android:background="@color/slot_blocked"/>
                 <CheckBox
                     android:id="@+id/slot_28"
@@ -444,6 +472,7 @@
                     android:buttonTint="@color/slot_blocked"
                     android:layout_marginEnd="2dp"
                     android:layout_marginRight="2dp"
+                    android:onClick="checkboxClicked"
                     android:background="@color/slot_blocked"/>
                 <CheckBox
                     android:id="@+id/slot_29"
@@ -455,6 +484,7 @@
                     android:buttonTint="@color/slot_blocked"
                     android:layout_marginEnd="2dp"
                     android:layout_marginRight="2dp"
+                    android:onClick="checkboxClicked"
                     android:background="@color/slot_blocked"/>
                 <CheckBox
                     android:id="@+id/slot_30"
@@ -466,6 +496,7 @@
                     android:buttonTint="@color/slot_blocked"
                     android:layout_marginEnd="2dp"
                     android:layout_marginRight="2dp"
+                    android:onClick="checkboxClicked"
                     android:background="@color/slot_blocked"/>
             </LinearLayout>
 
@@ -489,6 +520,7 @@
                     android:buttonTint="@color/slot_blocked"
                     android:layout_marginEnd="2dp"
                     android:layout_marginRight="2dp"
+                    android:onClick="checkboxClicked"
                     android:background="@color/slot_blocked"
                     />
                 <CheckBox
@@ -501,6 +533,7 @@
                     android:buttonTint="@color/slot_blocked"
                     android:layout_marginEnd="2dp"
                     android:layout_marginRight="2dp"
+                    android:onClick="checkboxClicked"
                     android:background="@color/slot_blocked"/>
                 <CheckBox
                     android:id="@+id/slot_33"
@@ -512,6 +545,7 @@
                     android:buttonTint="@color/slot_blocked"
                     android:layout_marginEnd="2dp"
                     android:layout_marginRight="2dp"
+                    android:onClick="checkboxClicked"
                     android:background="@color/slot_blocked"/>
                 <CheckBox
                     android:id="@+id/slot_34"
@@ -523,6 +557,7 @@
                     android:buttonTint="@color/slot_blocked"
                     android:layout_marginEnd="2dp"
                     android:layout_marginRight="2dp"
+                    android:onClick="checkboxClicked"
                     android:background="@color/slot_blocked"/>
                 <CheckBox
                     android:id="@+id/slot_35"
@@ -534,6 +569,7 @@
                     android:buttonTint="@color/slot_blocked"
                     android:layout_marginEnd="2dp"
                     android:layout_marginRight="2dp"
+                    android:onClick="checkboxClicked"
                     android:background="@color/slot_blocked"/>
                 <CheckBox
                     android:id="@+id/slot_36"
@@ -545,6 +581,7 @@
                     android:buttonTint="@color/slot_blocked"
                     android:layout_marginEnd="2dp"
                     android:layout_marginRight="2dp"
+                    android:onClick="checkboxClicked"
                     android:background="@color/slot_blocked"/>
             </LinearLayout>
 
@@ -568,6 +605,7 @@
                     android:buttonTint="@color/slot_blocked"
                     android:layout_marginEnd="2dp"
                     android:layout_marginRight="2dp"
+                    android:onClick="checkboxClicked"
                     android:background="@color/slot_blocked"
                     />
                 <CheckBox
@@ -580,6 +618,7 @@
                     android:buttonTint="@color/slot_blocked"
                     android:layout_marginEnd="2dp"
                     android:layout_marginRight="2dp"
+                    android:onClick="checkboxClicked"
                     android:background="@color/slot_blocked"/>
                 <CheckBox
                     android:id="@+id/slot_39"
@@ -591,6 +630,7 @@
                     android:buttonTint="@color/slot_blocked"
                     android:layout_marginEnd="2dp"
                     android:layout_marginRight="2dp"
+                    android:onClick="checkboxClicked"
                     android:background="@color/slot_blocked"/>
                 <CheckBox
                     android:id="@+id/slot_40"
@@ -602,6 +642,7 @@
                     android:buttonTint="@color/slot_blocked"
                     android:layout_marginEnd="2dp"
                     android:layout_marginRight="2dp"
+                    android:onClick="checkboxClicked"
                     android:background="@color/slot_blocked"/>
                 <CheckBox
                     android:id="@+id/slot_41"
@@ -613,6 +654,7 @@
                     android:buttonTint="@color/slot_blocked"
                     android:layout_marginEnd="2dp"
                     android:layout_marginRight="2dp"
+                    android:onClick="checkboxClicked"
                     android:background="@color/slot_blocked"/>
                 <CheckBox
                     android:id="@+id/slot_42"
@@ -624,6 +666,7 @@
                     android:buttonTint="@color/slot_blocked"
                     android:layout_marginEnd="2dp"
                     android:layout_marginRight="2dp"
+                    android:onClick="checkboxClicked"
                     android:background="@color/slot_blocked"/>
             </LinearLayout>
 
@@ -632,6 +675,7 @@
                 android:layout_height="wrap_content"
                 android:padding="@dimen/selected_slot_padding">
                 <TextView
+                    android:id="@+id/selectedslot"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/selected_slot_text"/>

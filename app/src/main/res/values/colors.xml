@@ -13,5 +13,6 @@
     <color name="black">#100e0e</color>
     <color name="slot_blocked">#FF5369</color>
     <color name="slot_available">#57DF78</color>
+    <color name="slot_disabled">#7b7b7b</color>
     <color name="slot_available_tick">#FFFFFF</color>
 </resources>
